@@ -1,0 +1,10 @@
+numpy<2  # important for a VM instance
+plyfile
+torchaudio
+torchvision
+opencv-python
+joblib
+./submodules/diff-gaussian-rasterization
+./submodules/simple-knn
+./submodules/fused-ssim
+
