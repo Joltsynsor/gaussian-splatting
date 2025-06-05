@@ -2,6 +2,7 @@ numpy<2  # important for a VM instance
 plyfile
 torchaudio
 torchvision
+tensorboard
 opencv-python
 joblib
 ./submodules/diff-gaussian-rasterization
